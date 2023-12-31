@@ -41,6 +41,7 @@ build/Release
 # Dependency directories
 node_modules/
 mobile/node_modules/
+erp-api/node_modules/
 cloud/node_modules/
 web/node_modules/
 
